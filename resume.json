@@ -27,6 +27,7 @@
       "position": "Engineer",
       "website": "http://kuali.co",
       "startDate": "2015-05-01",
+      "endDate": "Current",
       "summary": "Kuali creates modular, cloud-based software that’s beautifully designed and easy to use. We’re developing simpler ways for you to manage what has become amazingly complex. And we’re making our solutions affordable so that you can focus your time and resources on the real business of higher education: teaching, learning, and research.",
       "highlights": [
         "Building an application to ease the process of curriculum management at higher education institutions using Node.JS and React.",
