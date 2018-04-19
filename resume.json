@@ -1,0 +1,94 @@
+{
+  "basics": {
+    "name": "Cade Ward",
+    "label": "Programmer",
+    "picture": "",
+    "email": "cadebward@gmail.com",
+    "phone": "(801) 602-3900",
+    "summary": "Cade has a deep passion for technologies. When he doesn't have to be thinking about anything else, he's thinking about how to solve recent problems he's come across in developing some kind of application. He loves building applications, both small and large scale. He loves to keep things simple, and as automated as possible.",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "UT 84043",
+      "city": "Lehi",
+      "countryCode": "US",
+      "region": "Utah"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "cadebward",
+        "url": "https://github.com/cadebward"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Kuali",
+      "position": "Engineer",
+      "website": "http://kuali.co",
+      "startDate": "2015-05-01",
+      "summary": "Kuali creates modular, cloud-based software that’s beautifully designed and easy to use. We’re developing simpler ways for you to manage what has become amazingly complex. And we’re making our solutions affordable so that you can focus your time and resources on the real business of higher education: teaching, learning, and research.",
+      "highlights": [
+        "Building an application to ease the process of curriculum management at higher education institutions using Node.JS and React.",
+        "Building a service for all Kuali services to allow customers to audit changes to their data.",
+        "Had the opportunity to build our entire infrastructure in AWS, including networking, pipelines that take code from repo to production, monitoring, and scaling.",
+        "Rewrote entire sections our our app, moving us away from terribly outdated software to more current, stable software.",
+        "Provide technical trainings for conferences and specific institutions, including Kuali's annual Kuali Days conference.",
+        "Through it all, I've gained invaluable insights from customers from traveling to their institutions and working with them face to face to solve problems that matter most to them."
+      ]
+    },
+    {
+      "company": "Lightning Kite",
+      "position": "Engineer",
+      "website": "http://lightningkite.com",
+      "startDate": "2014-03-01",
+      "endDate": "2015-05-01",
+      "summary": "Lightning Kite is a dev shop building strikingly good software for a number of clients, both local and afar.",
+      "highlights": [
+        "Built a mobile app using cross platform tools to manage all aspects of business for Discount Tires co.",
+        "Built the entire front end for a local title company to manage quotes for new and existing customers.",
+        "Had the opportunity to help on a project for a local company helping kids to learn how to read."
+      ]
+    },
+    {
+      "company": "Utah State University Controller's Office",
+      "position": "Systems Administrator",
+      "website": "http://usu.edu",
+      "startDate": "2013-01-01",
+      "endDate": "2014-03-01",
+      "summary": "",
+      "highlights": [
+        "Automated varias tasks for the Controller's Office.",
+        "Completely rebuilt the Controller's Office main web page.",
+        "Created an internal reportal portal for USU's financial staff.",
+        "Maintained several servers for the Controller's Office."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Utah State University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "gpa": "3.7"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "GraphQL",
+        "Node",
+        "Ruby & Rails",
+        "Elixir & Phoenix"
+      ]
+    }
+  ]
+}
