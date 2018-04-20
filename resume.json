@@ -30,12 +30,10 @@
       "endDate": "Current",
       "summary": "Kuali creates modular, cloud-based software that’s beautifully designed and easy to use. We’re developing simpler ways for you to manage what has become amazingly complex. And we’re making our solutions affordable so that you can focus your time and resources on the real business of higher education: teaching, learning, and research.",
       "highlights": [
-        "Building an application to ease the process of curriculum management at higher education institutions using Node.JS and React.",
-        "Building a service for all Kuali services to allow customers to audit changes to their data.",
+        "Built and maintained an application to ease the process of curriculum management at higher education institutions using Node.JS and React.",
+        "Helped build a logging service for other internal kuali services in Node.js",
         "Had the opportunity to build our entire infrastructure in AWS, including networking, pipelines that take code from repo to production, monitoring, and scaling.",
-        "Rewrote entire sections our our app, moving us away from terribly outdated software to more current, stable software.",
-        "Provide technical trainings for conferences and specific institutions, including Kuali's annual Kuali Days conference.",
-        "Through it all, I've gained invaluable insights from customers from traveling to their institutions and working with them face to face to solve problems that matter most to them."
+        "Provide technical trainings for conferences and specific institutions, including Kuali's annual Kuali Days conference."
       ]
     },
     {
